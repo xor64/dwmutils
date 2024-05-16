@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
 set -xe
+mkdir modules
 
 CCARGS="-Isrc/include -Wall -pedantic"
 
